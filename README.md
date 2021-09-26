@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 <h1 align="center">Hi 👋, I'm Aher Vishal Sukhdeo</h1>
-<h3 align="center">A passionate backend developer from India and currently working in Japan.</h3>
+<h3 align="center"> Backend developer from India and currently working in Japan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalaher0108&label=Profile%20views&color=0e75b6&style=flat" alt="vishalaher0108" /> </p>
 
