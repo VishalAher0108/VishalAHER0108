@@ -1,9 +1,11 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=d6ace6&height=100"/>
+  
 </p>
-<h1 align="center">Hi 👋, I'm Aher Vishal Sukhdeo</h1>
-<h3 align="center"> Professional Ruby On Rails Developer </h3>
+<h1 align="center">👋 I'm Aher Vishal Sukhdeo</h1>
+<h3 align="center"> <b>Professional Ruby On Rails Developer </b></h3>
+
+<h3 align="center"> <b>“Life is about taking chances, trying new things, having fun, making mistakes and learning from it.”</b></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalaher0108&label=Profile%20views&color=0e75b6&style=flat" alt="vishalaher0108" /> </p>
 
