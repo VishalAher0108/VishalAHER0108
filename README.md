@@ -9,9 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalaher0108&label=Profile%20views&color=0e75b6&style=flat" alt="vishalaher0108" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce Project of Japanese Client**
+- 🔭 I’m currently working on **the Japan client e-commerce project.**
 
-- 🌱 I’m currently learning **Docker and basic of AWS**
+- 🌱 I’m currently learning **Docker, ReactJS and basic of AWS**
 
 - 📫 How to reach me **ahervishal10@gmail.com**
 
